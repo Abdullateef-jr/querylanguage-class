@@ -92,7 +92,7 @@ Using the Stolen Vehicle data
 - What is the average age of the vehicles that are stolen? Does this vary based on the vehicle type?
 - Which regions have the most and least number of stolen vehicles? What are the characteristics of the regions?
 
-Using the Global superstore
+Using the Superstore
 - Which product categories bring in the most revenue, and are they also the most frequently sold?
 - Find the top 5 products that consistently contribute the most to profit, regardless of quantity sold.
 - Which sub-categories tend to be sold in high quantities but result in poor or negative profits?
