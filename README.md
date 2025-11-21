@@ -84,7 +84,7 @@ Using the customer table in sakila db
 - Assume you don't have a lastname field, only the firstname and the other fields are available. Deduce your lastname from the email then add a column **'full name'** in a **Proper case**
 - Also, assume that there is no firstname field, only the lastname and the other fields. Deduce the firstname from the email field.
 
-### TASK
+### TASK PENDING
 
 Using the Stolen Vehicle data
 - What day of the week are vehicles most often and least often stolen?
