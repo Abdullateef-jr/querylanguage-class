@@ -59,5 +59,21 @@ Write queries to perform the following operation
 2. Add a new customer to the database.
 3. Delete an order from the database.
 
+### Assignment 1 - Pending
+Using the world database provide answer to the problem below;
+1. Which district and city report the single highest population figure recorded?
+2. Identify the city and district with the smallest documented population count.
+3. List cities that exceed 100,000 in population, and arrange them by size in increasing order.
+4. Find all cities with fewer than 2,000 inhabitants. Display them in descending order of population.
+5. Which districts and their corresponding cities fall within a mid-sized population range of 150,000 to 200,000?
+6. Determine the third most populated city and its district.
+7. Which major cities in Nigeria, the USA, and Spain have a population over 1 million?
+8. List all cities whose names begin with the letter ‘F’, along with their district and population details.
+9. Find cities ending with the letter ‘A’ and display their district and population information.
+
+### Part II
+Using the sakila database customer table;
+- Extract the lastname from the field email and generate a new field-fullname with the firstname field in proper case.
+- Extract firstname from the email and generate a new field-fullname with the lastname field in proper case.
 
 
